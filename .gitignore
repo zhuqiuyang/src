@@ -14,7 +14,9 @@ workSpace
 # vscode plugin
 lukehoban # github.com/
 golang    # github.com/golang/lint/golint
-tooles    # github.com/golang.org/x/tools
+tooles    # golang.org/x/tools
+cweill    # github.com/cweill/gotests
+newhook   # github.com/newhook/go-symbols
 
 # goreturns
 sourcegraph.com
