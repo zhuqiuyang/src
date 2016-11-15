@@ -15,3 +15,6 @@ workSpace
 lukehoban # github.com/
 golang    # github.com/golang/lint/golint
 tooles    # github.com/golang.org/x/tools
+
+# goreturns
+sourcegraph.com
