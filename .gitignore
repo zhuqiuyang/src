@@ -10,3 +10,8 @@ npm-debug.log
 .DS_Store
 .idea/
 workSpace
+
+# vscode plugin
+lukehoban # github.com/
+golang    # github.com/golang/lint/golint
+tooles    # github.com/golang.org/x/tools
